@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../todo list samad"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my practice"
+	}
+}
